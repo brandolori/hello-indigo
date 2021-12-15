@@ -1,0 +1,6 @@
+out/
+.bloop/
+.metals/
+.DS_Store
+.vscode
+.dotty-ide-disabled
