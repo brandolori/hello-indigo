@@ -1,8 +1,8 @@
 # "Hello, Indigo!"
 
-![Screen grab of "Hello, Indigo!"](screenshot.png)
+This is my modified version of the starting Indigo project.
 
-This is a small "hello, world"-like project to help people get started with indigo.
+It is a small game: you have to click on the screen when the arrow points at a red area.
 
 ## Prerequisites
 
